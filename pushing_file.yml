@@ -1,2 +1,4 @@
 ---
-# JUST A GITHUB PUSH TEST
+- name: First task
+  debug:
+    msg: "Hello my smart tech!"
