@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../ansible_masterclass/RA"
+		},
+		{
+			"name": "ansible_code",
+			"path": "../../../../ansible_code"
+		}
+	],
+	"settings": {}
+}
